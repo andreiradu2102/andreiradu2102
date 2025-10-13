@@ -102,5 +102,7 @@ helping organizations not only design accurate ML models but also ensure they ar
 📫 **Connect with me:**
 
 * GitHub: [andreiradu2102](https://github.com/andreiradu2102)
+* LinkedIn: [Andrei Radu](https://www.linkedin.com/in/andrei-gabriel-radu-08633838a/)
 
 ---
+
