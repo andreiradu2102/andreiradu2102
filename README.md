@@ -1,109 +1,118 @@
-# DevOps Engineer & AI/ML Enthusiast
+<div align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=andreiradu2102&theme=matrix&style=aura" alt="Andrei Radu — GitSkins Matrix profile" width="860" />
+</div>
 
-I am a **Computer Science student** and passionate engineer with a strong background in **DevOps** and a deep enthusiasm for **Artificial Intelligence & Machine Learning**.
-My journey bridges two worlds: on one hand, I have built and maintained reliable IT systems through my DevOps experience; on the other, I am constantly exploring the power of intelligent algorithms, data-driven decision-making, and deep learning.
+<div align="center">
 
-My ultimate goal is to **leverage my DevOps expertise to excel in AI/ML and MLOps**, combining scalable infrastructure with advanced machine learning techniques to deliver impactful, real-world solutions.
+`software engineering` · `distributed systems` · `infrastructure` · `ai/ml`
 
----
+[LinkedIn](https://linkedin.com/in/andrei-gabriel-radu-08633838a) · [Hugging Face](https://huggingface.co/andreiradu2102) · [Email](mailto:andrei.gabriel.radu@gmail.com)
 
-## 💼 Professional Experience
-
-* **DevOps Intern** @ *Simartis Telecom* — *16 July 2024 – 29 August 2024*
-* **DevOps Intern** @ *RASIROM* — *1 July 2025 – 30 September 2025*
-
-These roles allowed me to gain hands-on industry experience in **infrastructure, automation, and system reliability**, while further motivating me to apply the same principles of scalability and robustness to the field of **Machine Learning**.
+</div>
 
 ---
 
-## 🧠 Artificial Intelligence & Machine Learning
+## `> whoami`
 
-My strongest passion lies in **AI/ML**, and I am committed to continuously learning and experimenting in this domain.
+```text
+name      : Andrei-Gabriel Radu
+role      : Junior Full-Stack Engineer @ DIGI
+education : Incoming M.Sc. in Artificial Intelligence @ POLITEHNICA Bucharest
+focus     : Backend · Distributed Systems · Systems Programming · Machine Learning
+```
 
-* **Hands-on Projects:**
-  I have implemented and trained multiple models, including **convolutional neural networks for image recognition (MNIST)**, **regression models**, and even experimented with **Markov Chains combined with ML techniques**. Some of these are available in my GitHub repositories.
+I build software across the stack, with a particular interest in reliable backend systems, distributed architectures, infrastructure, and applied machine learning. My work spans production Java applications, automation workflows, Kubernetes-based infrastructure, low-level Linux/POSIX programming, and multimodal ML systems.
 
-* **From DevOps to MLOps:**
-  My DevOps background (Docker, Kubernetes, CI/CD) provides me with a unique advantage in deploying and maintaining ML models at scale. I see **MLOps as the natural bridge** between my current skill set and my aspirations in AI. Just as DevOps ensures reliable delivery of software, MLOps ensures the seamless integration of data pipelines, model training, deployment, monitoring, and continuous improvement.
-
-* **Continual Learning:**
-  I regularly study the latest research and complete online specializations in **Machine Learning and Deep Learning**. I also participate in **Kaggle competitions**, sharpening my data analysis and predictive modeling skills on real-world datasets.
-
-* **Interdisciplinary Curiosity:**
-  Beyond just building models, I am fascinated by how **AI can be applied to infrastructure and security** (e.g., anomaly detection in networks) or **telecommunications** (predicting churn, optimizing services). This blend of theory, coding, and system-level thinking is where I thrive.
+I enjoy projects where correctness, scalability, observability, and real-world behavior matter as much as getting the happy path to work.
 
 ---
 
-## 🛠️ Technical Skills
+## `> selected_work`
 
-**Languages & Tools:** Python, C, MATLAB, Octave
-**ML Frameworks:** TensorFlow, PyTorch, scikit-learn, pandas, NumPy, OpenCV
-**DevOps & Infra:** Docker, Kubernetes, Linux, Git, GitHub Actions, Terraform, Ansible
-**Databases & Systems:** MySQL, PostgreSQL, Redis, Nginx
+### 🧠 Misinformation Detection in Social Media Videos
+**PyTorch · Transformers · PEFT/LoRA · FastAPI · Multimodal ML**
 
-*(I am comfortable across the entire stack — from low-level system programming, to designing ML experiments, to deploying models in containerized, cloud-native environments.)*
+Built and evaluated **10 text, video, and multimodal models**, including BERT-family models, TimeSformer, VideoMAE, ViViT, CLIP, and SigLIP. The best-performing architecture achieved **0.880 macro-F1**. Released **10 trained models** through the DS4AI-UPB Hugging Face organization.
 
----
+**1st Prize — Distributed Systems section, UPB Student Scientific Communications Session (SCSS).**
 
-## 🚀 Looking Ahead
+→ [Explore the models on Hugging Face](https://huggingface.co/collections/DS4AI-UPB/social-media-video-misinformation-detection-collection)
 
-I am eager to transition into a **professional AI/ML career** where I can combine:
+### ⚡ Asynchronous Web Server
+**C · Linux · epoll · libaio · eventfd · sendfile**
 
-* my **DevOps foundation** (for scalable, reliable infrastructure), and
-* my **passion for AI/ML** (for intelligent, data-driven systems).
+Implemented an asynchronous HTTP server using Linux event-driven and asynchronous I/O primitives, with non-blocking connection handling and efficient file transfers.
 
-I believe this intersection — **MLOps** — is where I can create the most value:
-helping organizations not only design accurate ML models but also ensure they are **production-ready, scalable, and impactful**.
+→ [View repository](https://github.com/andreiradu2102/Asynchronous-web-server)
 
----
+### 🐚 Mini Shell
+**C · Linux/POSIX · Process Management · Flex/Bison**
 
-## 🛠️ Tech Stack & Tools
+Implemented a Unix-like shell with AST-based parsing, built-ins, pipelines, argument expansion, I/O redirection, and sequential, conditional, and parallel execution using POSIX primitives such as `fork`, `execvp`, `waitpid`, `pipe`, and `dup2`.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-ff8c00?style=for-the-badge&logo=mathworks&logoColor=white)
-![Octave](https://img.shields.io/badge/GNU%20Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)
+→ [View repository](https://github.com/andreiradu2102/Mini-shell)
 
-### Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+### ☸️ Time-Travel Postcards
+**Python · Flask · Celery · PostgreSQL · Redis · Docker · Kubernetes · PyTorch**
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+Containerized and deployed a Flask/Celery application stack on Kubernetes with PostgreSQL and Redis StatefulSets, persistent storage, NGINX Ingress, scaling workflows, and AI-powered media generation.
 
-### Databases & Systems
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+→ [View repository](https://github.com/andreiradu2102/Time-Travel-Postcards)
+
+<details>
+<summary><b>More systems & distributed work</b></summary>
+<br>
+
+- [Parallel inverted index using MapReduce](https://github.com/andreiradu2102/Parallel-computation-of-an-inverted-index-using-the-Map-Reduce-paradigm) — parallel computation and data processing in C++.
+- [BitTorrent Protocol](https://github.com/andreiradu2102/-BitTorrent-Protocol) — peer-to-peer networking and protocol implementation in C++.
+- [Memory Allocator](https://github.com/andreiradu2102/Memory-Allocator) — low-level memory-management work in C.
+- [Sokoban AI](https://github.com/andreiradu2102/Sokoban-AI) — BFS, DFS, A* and heuristic search over complex state spaces.
+
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## `> stack --current`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreiradu2102&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiradu2102&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
----
-
-📫 **Connect with me:**
-
-* GitHub: [andreiradu2102](https://github.com/andreiradu2102)
-* LinkedIn: [Andrei Radu](https://www.linkedin.com/in/andrei-gabriel-radu-08633838a/)
+```text
+Languages       Java · Python · C/C++ · C# · JavaScript/TypeScript · SQL · Bash
+Backend & Data  FastAPI · Flask · ASP.NET Core · PostgreSQL · Redis · RabbitMQ
+Infrastructure  Docker · Kubernetes · Linux · CI/CD · Jenkins · NGINX
+Observability   Prometheus · Grafana
+Frontend        React · Angular · Ext JS · HTML/CSS
+AI / ML         PyTorch · Hugging Face Transformers · PEFT/LoRA · Computer Vision
+```
 
 ---
 
+## `> engineering_signal`
 
+- **Production software:** shipped backend/frontend functionality and worked on production issues in Java and Ext JS applications.
+- **Ownership:** built automation workflows end-to-end and contributed through merge-request-driven collaboration and iterative feedback.
+- **Infrastructure:** worked with Kubernetes, Docker, CI/CD, VM provisioning, Prometheus, and Grafana.
+- **Systems:** built projects around POSIX processes, asynchronous I/O, networking, concurrency, and parallel computation.
+- **Machine learning:** trained, evaluated, deployed, and publicly released text, video, and multimodal models.
+
+---
+
+## `> github --stats`
+
+<div align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=andreiradu2102&theme=matrix&style=aura" alt="Andrei Radu GitHub stats" width="860" />
+</div>
+
+---
+
+## `> connect`
+
+I'm interested in **Software Engineering, Backend/Distributed Systems, ML Engineering, Applied AI, and ML Platform/MLOps** opportunities.
+
+- LinkedIn: [Andrei-Gabriel Radu](https://linkedin.com/in/andrei-gabriel-radu-08633838a)
+- Hugging Face: [andreiradu2102](https://huggingface.co/andreiradu2102)
+- Email: [andrei.gabriel.radu@gmail.com](mailto:andrei.gabriel.radu@gmail.com)
+
+<div align="center">
+
+`status: building · learning · shipping`
+
+</div>
