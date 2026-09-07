@@ -1,13 +1,14 @@
 <!--
   Andrei-Gabriel Radu — GitHub Profile README
-  Visual system: GitSkins Matrix + terminal-inspired layout
-  Main focus: AI/ML + Software Engineering + Distributed Systems
+  Focus: Machine Learning Engineering + Multimodal AI
+  Foundation: Software Engineering + Distributed Systems + Infrastructure
+  Visual system: Matrix / terminal-inspired
 -->
 
 <div align="center">
   <img
-    src="https://www.gitskins.com/api/section/hero?username=andreiradu2102&theme=matrix&style=aura&v=20260903"
-    alt="Andrei Radu — GitSkins Matrix Hero"
+    src="https://www.gitskins.com/api/section/hero?username=andreiradu2102&theme=matrix&style=aura&v=20260907"
+    alt="Andrei Radu — Matrix Hero"
     width="860"
   />
 </div>
@@ -16,12 +17,12 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=800&color=22C55E&center=true&vCenter=true&width=760&lines=AI%2FML+%2F%2F+Multimodal+%26+Applied+Machine+Learning;Software+Engineering+%2F%2F+Backend+%26+Distributed+Systems;Infrastructure+%2F%2F+Reliability+%2F%2F+Observability;From+models+to+reliable+real-world+systems"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=800&color=22C55E&center=true&vCenter=true&width=820&lines=Machine+Learning+Engineering+%2F%2F+Multimodal+AI;Applied+ML+%2F%2F+Computer+Vision+%2F%2F+NLP;Software+Engineering+%2F%2F+Distributed+Systems;From+models+to+reliable+real-world+systems"
     alt="Typing SVG"
   />
 </a>
 
-`AI / ML` · `SOFTWARE ENGINEERING` · `DISTRIBUTED SYSTEMS` · `INFRASTRUCTURE`
+`MACHINE LEARNING` · `MULTIMODAL AI` · `SOFTWARE ENGINEERING` · `DISTRIBUTED SYSTEMS`
 
 [**LinkedIn**](https://linkedin.com/in/andrei-gabriel-radu-08633838a)
 ·
@@ -37,11 +38,15 @@
 
 [`IDENTITY`](#identity)
 ·
-[`AI_ML`](#ai-ml)
+[`ML_PROFILE`](#ml-profile)
 ·
-[`CAPABILITY_MATRIX`](#capability-matrix)
+[`FEATURED_ML`](#featured-ml)
+·
+[`CAPABILITIES`](#capabilities)
 ·
 [`SELECTED_WORK`](#selected-work)
+·
+[`EXPERIENCE`](#experience)
 ·
 [`TELEMETRY`](#telemetry)
 ·
@@ -54,26 +59,26 @@
 ## `> system.identity`
 
 ```text
-STATUS    : ONLINE
-USER      : Andrei-Gabriel Radu
-ROLE      : Junior Full-Stack Engineer @ DIGI
-EDUCATION : Incoming M.Sc. in Artificial Intelligence @ POLITEHNICA Bucharest
-FOCUS     : AI/ML / Backend / Distributed Systems / Systems Programming
-LOCATION  : Bucharest, Romania
+STATUS        : ONLINE
+USER          : Andrei-Gabriel Radu
+CURRENT ROLE  : Junior Full-Stack Engineer @ DIGI
+EDUCATION     : Incoming M.Sc. in Artificial Intelligence @ POLITEHNICA Bucharest
+PRIMARY GOAL  : Machine Learning Engineering
+FOCUS         : Applied ML · Multimodal AI · Computer Vision · NLP
+FOUNDATION    : Software Engineering · Distributed Systems · Infrastructure
+LOCATION      : Bucharest, Romania
 ```
 
 > [!IMPORTANT]
-> I build software that has to work outside the happy path — **applied ML systems, production applications, distributed services, infrastructure automation, and Linux/POSIX systems**.
+> My long-term direction is **Machine Learning Engineering**. I deliberately built experience in software engineering, distributed systems, DevOps, and infrastructure because I want to understand the full lifecycle of intelligent systems — from model development and evaluation to deployment, observability, reliability, and production behavior.
 
-My main interests are **applied machine learning, multimodal AI, reliable backend systems, distributed architectures, and infrastructure**.
+I am especially interested in **applied machine learning and multimodal AI**, where strong modeling needs to be combined with equally strong engineering.
 
-I particularly enjoy problems that connect intelligent models with the software and systems required to make them useful in real-world environments.
-
-My engineering interests are shaped by problems where **model quality, correctness, scalability, observability, and real-world behavior** matter as much as getting the happy path to work.
+My goal is to build ML systems that go beyond experiments: systems that are **accurate, reproducible, scalable, observable, and useful in real-world environments**.
 
 <div align="center">
   <img
-    src="https://www.gitskins.com/api/section/highlights?username=andreiradu2102&theme=matrix&style=aura&v=20260903"
+    src="https://www.gitskins.com/api/section/highlights?username=andreiradu2102&theme=matrix&style=aura&v=20260907"
     alt="Andrei Radu — GitSkins Matrix Highlights"
     width="860"
   />
@@ -81,22 +86,23 @@ My engineering interests are shaped by problems where **model quality, correctne
 
 ---
 
-<a id="ai-ml"></a>
+<a id="ml-profile"></a>
 
-## `> ai_ml.profile --primary`
+## `> ml.profile --primary`
 
 ```text
-PRIMARY DOMAIN : Applied AI / Machine Learning
-SPECIALIZATION : Multimodal ML · Computer Vision · NLP
-ENGINEERING    : Training · Evaluation · Inference · APIs · Deployment
-RESEARCH       : Text · Video · Multimodal architectures
-BEST RESULT    : 0.880 macro-F1
-PUBLIC RELEASE : 10 trained models
+DOMAIN        : Machine Learning Engineering
+SPECIALTIES   : Multimodal ML · Computer Vision · NLP
+FRAMEWORKS    : PyTorch · Hugging Face Transformers · PEFT/LoRA
+ML WORKFLOW   : Training · Evaluation · Inference · API Integration · Deployment
+RESEARCH      : Text · Video · Multimodal architectures
+BEST RESULT   : 0.880 macro-F1
+PUBLIC MODELS : 10 trained models
 ```
 
-My bachelor's research focused on **misinformation detection in social-media videos**, combining text, video, and multimodal architectures.
+My bachelor's research focused on **misinformation detection in social-media videos** across text, video, and multimodal architectures.
 
-I evaluated models including:
+I worked with:
 
 - BERT-family architectures
 - TimeSformer
@@ -112,37 +118,72 @@ It won **1st Prize in the Distributed Systems section of UPB's Student Scientifi
 
 <div align="center">
 
-[**Explore the models on Hugging Face →**](https://huggingface.co/collections/DS4AI-UPB/social-media-video-misinformation-detection-collection)
+[**Explore the trained models on Hugging Face →**](https://huggingface.co/collections/DS4AI-UPB/social-media-video-misinformation-detection-collection)
 
 </div>
 
+> [!NOTE]
+> The research source code is maintained in a **private DS4AI-UPB GitHub repository**. The trained model releases are publicly available through the Hugging Face collection above.
+
 ---
 
-<a id="capability-matrix"></a>
+<a id="featured-ml"></a>
+
+## `> featured.ml.project --inspect`
+
+### `Social Media Video Misinformation Detection`
+
+**PyTorch · Transformers · PEFT/LoRA · FastAPI · Multimodal Learning**
+
+```text
+TASK          : Misinformation detection in social-media video
+MODALITIES    : Text · Video · Multimodal
+ARCHITECTURES : 10 evaluated model configurations
+BEST SCORE    : 0.880 macro-F1
+RELEASE       : 10 trained models via DS4AI-UPB
+AWARD         : 1st Prize — Distributed Systems, UPB SCSS
+CODE          : Private DS4AI-UPB repository
+```
+
+What I built:
+
+- text-only, video-only, and multimodal evaluation pipelines;
+- parameter-efficient fine-tuning with **LoRA**;
+- stratified cross-validation and reproducible evaluation;
+- cached video-frame preprocessing for faster experimentation;
+- automated model comparison and metric reporting;
+- live inference exposed through **FastAPI**;
+- public model releases through **Hugging Face**.
+
+[`>> explore_public_models`](https://huggingface.co/collections/DS4AI-UPB/social-media-video-misinformation-detection-collection)
+
+---
+
+<a id="capabilities"></a>
 
 ## `> capability.matrix --load`
 
 <div align="center">
   <img
-    src="https://www.gitskins.com/api/section/stack?username=andreiradu2102&theme=matrix&style=aura&v=20260903"
+    src="https://www.gitskins.com/api/section/stack?username=andreiradu2102&theme=matrix&style=aura&v=20260907"
     alt="Andrei Radu — GitSkins Matrix Stack"
     width="860"
   />
 </div>
 
-### `ai / ml`
+### `machine learning / ai`
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img
       src="https://skillicons.dev/icons?i=py,pytorch,sklearn&theme=dark&perline=6"
-      alt="AI and Machine Learning"
+      alt="Machine Learning and AI"
     />
   </a>
 </p>
 
 <div align="center">
-  <code>PyTorch · Hugging Face Transformers · PEFT/LoRA · Multimodal ML · Computer Vision · FastAPI Inference</code>
+  <code>PyTorch · Hugging Face Transformers · PEFT/LoRA · Deep Learning · Computer Vision · NLP · Multimodal Learning</code>
 </div>
 
 <br>
@@ -152,14 +193,14 @@ It won **1st Prize in the Distributed Systems section of UPB's Student Scientifi
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,js,ts,bash&theme=dark&perline=8"
+      src="https://skillicons.dev/icons?i=py,java,c,cpp,cs,js,ts,bash&theme=dark&perline=8"
       alt="Programming Languages"
     />
   </a>
 </p>
 
 <div align="center">
-  <code>Java · Python · C/C++ · C# · JavaScript/TypeScript · SQL · Bash</code>
+  <code>Python · Java · C/C++ · C# · JavaScript/TypeScript · SQL · Bash</code>
 </div>
 
 <br>
@@ -176,7 +217,7 @@ It won **1st Prize in the Distributed Systems section of UPB's Student Scientifi
 </p>
 
 <div align="center">
-  <code>FastAPI · Flask · ASP.NET Core · REST APIs · PostgreSQL · Redis · RabbitMQ · EF Core</code>
+  <code>FastAPI · Flask · ASP.NET Core · REST APIs · PostgreSQL · Redis · RabbitMQ · SQLAlchemy · EF Core</code>
 </div>
 
 <br>
@@ -224,51 +265,46 @@ It won **1st Prize in the Distributed Systems section of UPB's Student Scientifi
 **PyTorch · Transformers · PEFT/LoRA · FastAPI · Multimodal ML**
 
 ```text
-MODELS     : 10 text / video / multimodal architectures
-BEST SCORE : 0.880 macro-F1
-RELEASE    : 10 trained models published through DS4AI-UPB
-AWARD      : 1st Prize — Distributed Systems, UPB SCSS
+10 MODELS · 0.880 MACRO-F1 · 10 PUBLIC RELEASES · 1ST PRIZE @ UPB SCSS
 ```
 
-Built an end-to-end evaluation pipeline spanning BERT-family models, TimeSformer, VideoMAE, ViViT, CLIP, and SigLIP, with LoRA fine-tuning, stratified cross-validation, frame caching, automated evaluation, and live FastAPI inference.
+Built an end-to-end experimentation and inference pipeline across text, video, and multimodal architectures.
 
 [`>> explore_models`](https://huggingface.co/collections/DS4AI-UPB/social-media-video-misinformation-detection-collection)
 
 ---
 
-### `02 // Asynchronous Web Server`
+### `02 // Time-Travel Postcards — AI Media Generation Platform`
+
+**Python · PyTorch · Diffusers · Flask · Celery · PostgreSQL · Redis · Docker · Kubernetes**
+
+Built and containerized an AI-powered media-generation application backed by asynchronous workers, Redis, and PostgreSQL, then deployed it on Kubernetes with persistent storage, NGINX Ingress, and scalable application components.
+
+[`>> view_repository`](https://github.com/andreiradu2102/Time-Travel-Postcards)
+
+---
+
+### `03 // Asynchronous Web Server`
 
 **C · Linux · epoll · libaio · eventfd · sendfile**
 
-Implemented an asynchronous HTTP server around Linux event-driven and asynchronous I/O primitives, coordinating non-blocking socket handling and file transfers while managing HTTP request/response flows.
+Implemented an asynchronous HTTP server around Linux event-driven and asynchronous I/O primitives, coordinating non-blocking socket handling and file transfers.
 
 [`>> view_repository`](https://github.com/andreiradu2102/Asynchronous-web-server)
 
 ---
 
-### `03 // Mini Shell`
+### `04 // Mini Shell`
 
 **C · Linux/POSIX · Flex/Bison · Process Management**
 
-Implemented a Unix-like shell with AST-based parsing, built-ins, pipelines, argument expansion, I/O redirection, and sequential, conditional, and parallel execution.
-
-Used POSIX primitives including:
+Implemented a Unix-like shell with AST-based command parsing, built-ins, pipelines, argument expansion, I/O redirection, and sequential, conditional, and parallel execution.
 
 ```text
 fork · execvp · waitpid · pipe · dup2
 ```
 
 [`>> view_repository`](https://github.com/andreiradu2102/Mini-shell)
-
----
-
-### `04 // Time-Travel Postcards`
-
-**Python · Flask · Celery · PostgreSQL · Redis · Docker · Kubernetes · PyTorch**
-
-Built and containerized a Flask/Celery application stack backed by PostgreSQL and Redis, then deployed it on Kubernetes with persistent storage, NGINX Ingress, scaling workflows, and AI-powered media generation.
-
-[`>> view_repository`](https://github.com/andreiradu2102/Time-Travel-Postcards)
 
 ---
 
@@ -291,38 +327,41 @@ Built and containerized a Flask/Celery application stack backed by PostgreSQL an
 
 <div align="center">
   <img
-    src="https://www.gitskins.com/api/section/projects?username=andreiradu2102&theme=matrix&style=aura&v=20260903"
+    src="https://www.gitskins.com/api/section/projects?username=andreiradu2102&theme=matrix&style=aura&v=20260907"
     alt="Andrei Radu — GitSkins Matrix Projects"
     width="860"
   />
 </div>
 
 > [!TIP]
-> I intentionally surface a small set of projects that demonstrate **ML depth, systems programming, distributed thinking, infrastructure, and real-world engineering** rather than listing every coursework repository.
+> I intentionally highlight a small number of projects that demonstrate **ML depth, production engineering, distributed thinking, infrastructure, and low-level systems knowledge** rather than listing every coursework repository.
 
 ---
 
 ## `> capability.signal --decode`
 
 ```text
-ML / AI         10 models · multimodal learning · LoRA · evaluation · inference APIs
-PRODUCTION      shipped backend/frontend functionality in real Java + Ext JS systems
-OWNERSHIP       built automation workflows end-to-end and iterated through peer feedback
-DISTRIBUTED     designed multi-service architectures and concurrency-safe workflows
+ML / AI         multimodal learning · LoRA · evaluation · inference · public model releases
+ENGINEERING     production Java / Ext JS · backend · frontend · API integrations
+DISTRIBUTED     multi-service architectures · concurrency-safe workflows
 INFRASTRUCTURE  Kubernetes · Docker · CI/CD · VM provisioning · monitoring
 SYSTEMS         POSIX processes · async I/O · networking · concurrency · parallel computing
 ```
 
+The common thread across my work is **engineering depth around intelligent systems**: understanding the model, the application around it, and the infrastructure required to run it reliably.
+
 ---
+
+<a id="experience"></a>
 
 ## `> professional.trace`
 
 ```text
 DIGI
 └── Junior Full-Stack Engineer
+    ├── AI-assisted ticket-resolution workflows
     ├── production Java + Ext JS applications
     ├── backend / frontend / API integrations
-    ├── AI-assisted ticket-resolution workflows
     ├── codebase restructuring
     └── observability / debugging features
 
@@ -343,6 +382,8 @@ Simartis Telecom
     └── GSMA SGP.31 / SGP.32
 ```
 
+These experiences are complementary to my ML direction: they gave me hands-on exposure to **production software, deployment, distributed systems, automation, observability, and reliability** — the engineering foundation I want to bring into Machine Learning Engineering.
+
 ---
 
 <a id="telemetry"></a>
@@ -351,7 +392,7 @@ Simartis Telecom
 
 <div align="center">
   <img
-    src="https://www.gitskins.com/api/section/stats?username=andreiradu2102&theme=matrix&style=aura&v=20260903"
+    src="https://www.gitskins.com/api/section/stats?username=andreiradu2102&theme=matrix&style=aura&v=20260907"
     alt="Andrei Radu — GitSkins Matrix Stats"
     width="860"
   />
@@ -361,13 +402,17 @@ Simartis Telecom
 
 <div align="center">
   <img
-    src="https://www.gitskins.com/api/section/heatmap?username=andreiradu2102&theme=matrix&style=aura&v=20260903"
+    src="https://www.gitskins.com/api/section/heatmap?username=andreiradu2102&theme=matrix&style=aura&v=20260907"
     alt="Andrei Radu — GitSkins Matrix Heatmap"
     width="860"
   />
 </div>
 
-### `activity.trace`
+<details>
+
+<summary><code>> telemetry --extended</code></summary>
+
+<br>
 
 <div align="center">
   <img
@@ -376,10 +421,6 @@ Simartis Telecom
     width="860"
   />
 </div>
-
-<details>
-
-<summary><code>> telemetry --extended</code></summary>
 
 <br>
 
@@ -394,19 +435,17 @@ Simartis Telecom
 
 ---
 
-## `> signal.trace --consume`
+## `> contribution.trace`
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/andreiradu2102/andreiradu2102/output/github-contribution-grid-snake-dark.svg"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/andreiradu2102/andreiradu2102/output/github-contribution-grid-snake.svg"
   />
-
   <img
     alt="Matrix contribution snake"
     src="https://raw.githubusercontent.com/andreiradu2102/andreiradu2102/output/github-contribution-grid-snake.svg"
@@ -420,12 +459,13 @@ Simartis Telecom
 ## `> connect --open`
 
 ```text
-INTERESTS : ML Engineering · Applied AI · Multimodal ML
-            Software Engineering · Backend / Distributed Systems
-            ML Platform · MLOps
-
-STATUS    : building · learning · shipping
+PRIMARY        : Machine Learning Engineering
+INTERESTS      : Applied AI · Multimodal ML · Computer Vision · NLP
+ENGINEERING    : Backend · Distributed Systems · ML Infrastructure
+CURRENT MODE   : building · learning · shipping
 ```
+
+I am particularly interested in opportunities around **Machine Learning Engineering, Applied AI, Multimodal ML, ML Platforms, and AI-backed software systems**.
 
 <div align="center">
 
